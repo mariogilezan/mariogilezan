@@ -1,4 +1,13 @@
-### Hi there 👋
+Hi there 👋 My name is Mario Gilezan
+====================================
+
+Developer. Sportsman. Gamer.
+----------------------------
+
+- 🌍 I'm based in Vrsac, Serbia
+- 👀 I’m interested in Front end offers
+- 🌱 I’m currently learning React
+- 📫 How to reach me: mariogilezan10@gmail.com
 
 <!--
 **mariogilezan/mariogilezan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
